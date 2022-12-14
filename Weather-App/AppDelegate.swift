@@ -1,13 +1,13 @@
 //
-//  AppDelegate.swift
-//  Weather-App
+//  DateExtension.swift
+//  Wheather App with Xib
 //
 //  Created by Nosirov Xushkiyor Shavkatbek o'g'li on 14/12/22.
 //
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
